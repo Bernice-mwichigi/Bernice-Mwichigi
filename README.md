@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bernice-mwichigi
+- 👋 Hi, I’m Bernice-mwichigi.I am 18 years old 
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate with institutions 
