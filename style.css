@@ -12,12 +12,14 @@
     justify-content: center;
     word-wrap: break-word;
   }
-.header{
+.columnheader{
     background-color:lightgray;
     color: black;
     font-weight: bolder;
     border: 2px solid black;
-    font-size: 20px;
+    font-size: 20px; 
+    font: sans-serif;
+    text-align: center;
        
 }
 .day{
@@ -27,7 +29,8 @@
     border:2px solid black;
     text-align: center;
     justify-content: center;
-    place-content: center;
+    place-content: center; 
+    font: sans-serif;
 }
 #name{
     writing-mode: vertical-rl;
@@ -35,14 +38,16 @@
     font-size: 20px;
     border: 2px solid white;
     place-content: center;
+    font:sans-serif;
 }
 .cell{
     border: 2px solid black;
     font-size: 15px;
     word-wrap: break-word;
-    font-weight:800;
+    font-weight:bold;
     place-content: center;
-    height: 5.2cm;   
+    height: 5.2cm;  
+    font: sans-serif; 
      
     }
 .subject{
@@ -53,6 +58,7 @@
     font-weight : 800;
     place-content: center;
     height: 1cm;
+    font:sans-serif;
     
 }
 #fri{
@@ -65,16 +71,19 @@
     border:2px solid white;
     font-weight: bolder;
     place-content: start;
+    font: sans-serif;
     }
     h1{
         text-align: center;
-        font-weight: bolder;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: lighter;
+        font:sans-serif;
         font-size: 25px;
         color: black;
         font-style: italic;
     }
-    paragraph{
-        font-size: 22px;
+    .paragraph{
+        font-size: 18px;
         color:black;
-    }
+        font: sans-serif;
+        font-weight: 600;
+        }
